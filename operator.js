@@ -84,10 +84,10 @@
 
 // Operator logika
 
-// var a = true;
-// var b = false;
+// var a = false;
+// var b = true;
   
-// var hasil1 = a && b;
+// var hasil1 = a || b;
 // console.log(hasil1); //false
   
 // var hasil2 = a && a;

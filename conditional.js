@@ -1,8 +1,8 @@
 
 
-// let angka = 1;
+// let angka = 100;
 // if (angka < 10) {
-//     console.log(`${angka} kurang dari dari 10`)
+//     console.log(`${angka} kurang  dari 10`)
 //   } else if (angka == 10) {
 //     console.log(`${angka} sama dengan 10`)
 //   } else {
@@ -22,7 +22,6 @@
 //       break;
 //     case 3:
 //       console.log("Rabu");
-//       break;
 //     case 4:
 //       console.log("Kamis");
 //       break;

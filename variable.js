@@ -39,8 +39,8 @@ multi-line comment
 // let b=2
 // if (true){
 //   let b=3
-//   console.log(b)
 // }
+// console.log(b)
 
 // variabel const scope local
 // const b=2
